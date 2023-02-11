@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simulador de Credito</string>
+    <string name="title">Personaliza tu Credito</string>
+    <string name="ident">Identificación</string>
+    <string name="name">Nombre Completo</string>
+    <string name="date">Fecha</string>
+    <string name="credtype">Tipo de Crédito</string>
+</resources>
